@@ -1,4 +1,4 @@
-# Mini MES — ระบบควบคุมการผลิตในโรงงาน (Manufacturing Execution System)
+<img width="1912" height="947" alt="image" src="https://github.com/user-attachments/assets/785e1ea1-91ed-4567-b3ef-fed178c5e013" /># Mini MES — ระบบควบคุมการผลิตในโรงงาน (Manufacturing Execution System)
 
 > ระบบจำลองสายการผลิตในโรงงานอุตสาหกรรม สำหรับติดตามการผลิตแบบเรียลไทม์ ตรวจสอบย้อนกลับวัตถุดิบ (Traceability) และจัดการงานซ่อมบำรุง — พัฒนาเป็น Full-Stack Web Application
 
@@ -7,6 +7,10 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
+<img width="1912" height="947" alt="image" src="https://github.com/user-attachments/assets/0baf96cb-ec6e-4ad9-a257-68a3905975cb" />
+<img width="1907" height="938" alt="image" src="https://github.com/user-attachments/assets/3b5c4209-881d-46f7-9129-498a55996828" />
+<img width="1912" height="947" alt="image" src="https://github.com/user-attachments/assets/5651b5f4-a923-40b1-bc54-157a22b5d3f9" />
+
 
 ## 📌 โปรเจคนี้คืออะไร
 
